@@ -1,9 +1,14 @@
-### Hi there! This is Ragib (Ra-gib, not Rah-jib). I like to train models with a lot of data. Data is love, data is life. <3
+### Hi there! This is Ragib (Ra-gib, not Rah-jib).
+
 
 🧑🏻‍💻 Currently working on: LLMs, specially fine-tuning, RAG, and agents! 😎
 
 Publications: 
 
-My interests: 
+My interests: LLMs, NLP, Medical Data. 
 
 Connect with me: 
+📧 : ragib.aiub@gmail.com
+
+---
+> Are we making data, or is it the data that makes us who we are?
