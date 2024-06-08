@@ -5,7 +5,7 @@
 
 Publications: 
 
-My interests: LLMs, NLP, Medical Data. 
+My interests: AI in Healthcare, LLMs, NLP, Medical Data. 
 
 Connect with me: 
 📧 : ragib.aiub@gmail.com
