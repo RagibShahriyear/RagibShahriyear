@@ -1,4 +1,4 @@
-### Hi there! This is Ragib (Ra-gib, not Rah-jib).
+### Hi there! This is Ragib (Ra-gib, g as in Goat 🐐, not Rah-jib).
 
 
 🧑🏻‍💻 Currently working on: LLMs, specially fine-tuning, RAG, and agents! 😎
