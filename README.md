@@ -4,7 +4,7 @@
 🧑🏻‍💻 Currently working on: LLMs, specially fine-tuning, RAG, and agents! 
 
 Publications: 
-1. GuidelineGuard: An Agentic Framework for Medical Note Evaluation Based on Guideline Adherence
+1. [ ] 
 
 My interests: AI in Healthcare, LLMs, NLP, Medical Data. 
 
